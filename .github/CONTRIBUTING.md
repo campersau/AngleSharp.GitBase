@@ -117,7 +117,6 @@ The following files should not be edited directly in the current repository, but
 .gitignore
 .gitattributes
 .github/*
-appveyor.yml
 build.ps1
 build.sh
 tools/anglesharp.cake
